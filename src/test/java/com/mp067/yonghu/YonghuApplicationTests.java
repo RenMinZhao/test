@@ -12,6 +12,7 @@ public class YonghuApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("abc");
+        System.out.println(132465);
     }
 
 }
